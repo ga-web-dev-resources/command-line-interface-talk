@@ -1,4 +1,38 @@
-# The CLI (Command Line Interface)
+
+title: The CLI (Command Line Interface)
+duration: "1:25"
+creator:
+    name: Mike Hopper
+    city: Atlanta
+---
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) The CLI (Command Line Interface)
+
+### LEARNING OBJECTIVES
+*After this lesson, you will be able to:*
+
+Concepts
+- Compare and contrast CLIs / GUIs
+- Explain how command line usage can increase efficiency
+- Describe the anatomy of a command (statement, flags, arguments)
+- Explain what a path is, and why the 'current path' is important in the CLI
+- Explain the difference between an absolute path and a relative path
+- Setup your working directory / environment for WDI
+- List common commands to view the path of the current directory, view the contents of a directory, navigate to different directories, manage files and directories and list unsafe commands
+
+
+### STUDENT PRE-WORK
+*Before this lesson, you should already be able to:*
+- Describe the terminal and open it up.
+- Understand how file systems work on the GUI.
+- Manipulate (add, delete or modify) files on the GUI.
+
+### INSTRUCTOR PREP
+*Before this lesson, instructors will need to:*
+- Gather materials needed for class
+- Complete Prep work required
+- Prepare any specific instructions
+
+---
 
 ## Outline
 * [Learning Objectives](#learning-objectives)
@@ -16,27 +50,9 @@
 * [Hungry for More?](#hungry-for-more)
 * [References](#references)
 
-## Learning Objectives
 
-### Concepts
 
-- Compare and contrast CLIs / GUIs
-- Explain how command line usage can increase efficiency
-- Describe the anatomy of a command (statement, flags, arguments)
-- Explain what a path is, and why the 'current path' is important in the CLI
-- Explain the difference between an absolute path and a relative path
-
-### Mechanics
-
-- Setup your working directory / environment for WDI
-- List common commands to
-  - View the path of the current directory
-  - View the contents of a directory
-  - Navigate to different directories
-  - Manage files and directories
-- List unsafe commands
-
-### Framing
+### Opening
 
 Turn & Talk: Given your exposure to the command line so far (prework and installfest), discuss the following questions:
 
@@ -44,9 +60,7 @@ Turn & Talk: Given your exposure to the command line so far (prework and install
 * What do you like / dislike about using it?
 * It what ways might it be better or worse for Developers? (Compared to a GUI)
 
----------------------------------------------------------------------------
-
-## Background
+## Introduction
 
 ### What is an Operating System?
 An operating system (OS) is a resource manager. It takes the form of a set of software routines that allow users and application programs to access system resources (e.g. the CPU, memory, disks, printers, network cards, etc.) in a safe, efficient and abstract way.
