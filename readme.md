@@ -1,10 +1,12 @@
+
 ---
 title: The CLI (Command Line Interface)
 duration: "1:25"
-creator: Mike Hopper
- topics: CLI, Setup Environment 
+topics: Command Line, Setup 
+    name: Mike Hopper
     city: Atlanta
 ---
+
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) The CLI (Command Line Interface)
 
 ### LEARNING OBJECTIVES
