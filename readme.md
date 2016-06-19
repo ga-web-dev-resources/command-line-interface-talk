@@ -1,8 +1,7 @@
-
 ---
 title: The CLI (Command Line Interface)
 duration: "1:25"
-topics: Command Line, Setup 
+creator:
     name: Mike Hopper
     city: Atlanta
 ---
