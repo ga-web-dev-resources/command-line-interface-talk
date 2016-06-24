@@ -21,15 +21,7 @@ creator:
 
 ### STUDENT PRE-WORK
 *Before this lesson, you should already be able to:*
-- Describe the terminal and open it up.
 - Understand how file systems work on the GUI.
-- Manipulate (add, delete or modify) files on the GUI.
-
-### INSTRUCTOR PREP
-*Before this lesson, instructors will need to:*
-- Gather materials needed for class
-- Complete Prep work required
-- Prepare any specific instructions
 
 ---
 
@@ -51,7 +43,7 @@ creator:
 
 
 
-### Opening
+## Opening
 
 Turn & Talk: Given your exposure to the command line so far (prework and installfest), discuss the following questions:
 
