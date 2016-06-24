@@ -18,10 +18,11 @@ creator:
 - Setup your working directory / environment for WDI
 - List common commands to view the path of the current directory, view the contents of a directory, navigate to different directories, manage files and directories and list unsafe commands
 
-
-### STUDENT PRE-WORK
-*Before this lesson, you should already be able to:*
-- Understand how file systems work on the GUI.
+## LESSON COMPONENTS
+- Lecture
+- Codealong
+- Homework/Practice
+- Quiz
 
 ---
 
